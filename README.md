@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Lokesh rawat! 👋</h1>
 <p align="center">I work on websites, browser extensions, web, mobile, and Game dev.</p>
 
-## My Stack
+## Application and tech
 <p align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=react,astro,tailwindcss,nodejs,prisma,docker,linux" alt="React, Next.js, Astro, TailwindCSS, Node.js, Prisma, Docker, Linux">
+    <img src="https://skillicons.dev/icons?i=js,html,css,react,tailwindcss,vite,nodejs,mongodb,mysql,aws,py,firebase,docker,linux,neovim" alt="React, TailwindCSS, Node.js, Prisma, Docker, Linux">
   </a>
 </p>
 
