@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Lokesh rawat! 👋</h1>
-<p align="center">I work on websites, browser extensions, web, mobile, and Game dev.</p>
+<p align="center">Full-Stack Developer | Game Developer (hobby) | Linux and FOSS Enthusiast.</p>
 
 ## Application and tech
 <p align="center">
